@@ -1,0 +1,12 @@
+2025-04-04 10:09:52.765152 - Received CBT.V508.FILE463.PDS from FILE463.XMI 
+2025-04-04 10:09:52.765901 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:09:52.766055 - Found @FILE463.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/@FILE463
+2025-04-04 10:09:52.766197 - Found BR.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/BR
+2025-04-04 10:09:52.766333 - Found ED.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/ED
+2025-04-04 10:09:52.766466 - Found KBR.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/KBR
+2025-04-04 10:09:52.766603 - Found KDDN.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/KDDN
+2025-04-04 10:09:52.766724 - Found KDSN.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/KDSN
+2025-04-04 10:09:52.766843 - Found KED.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/KED
+2025-04-04 10:09:52.766976 - Found KLIB.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/KLIB
+2025-04-04 10:09:52.767097 - Found LOGMSG.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/LOGMSG
+2025-04-04 10:09:52.767225 - Found TSOCMD.txt (text/plain) in CBT.V508.FILE463.PDS, moved to PDS/TSOCMD
